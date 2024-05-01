@@ -1,0 +1,1 @@
+$attribute tresbola minecraft:generic.scale base set $(scale)
