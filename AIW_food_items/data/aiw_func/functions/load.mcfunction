@@ -16,4 +16,5 @@ scoreboard players set @a AIW_scale 10
 
 scoreboard players set @a AIW_anim_timer 0
 
-tellraw @a ["",{"text":"Grow and shrink Items Datapack","bold":true,"color":"aqua"},{"text":"\n\n   Eat the "},{"text":"Suspicious cake","color":"light_purple"},{"text":" to grow\n   Drink the "},{"text":"Weird potion","color":"light_purple"},{"text":" to shrink\n   You can go back to normal with "},{"text":"Milk","color":"aqua"},{"text":"\n\nYou can see them in the "},{"text":"Recipe Book","color":"aqua"},{"text":", or"},{"text":" ","color":"aqua"},{"text":"Here","color":"dark_red","hoverEvent":{"action":"show_text","contents":"Under construction"}}]
+tellraw @a ["",{"text":"Grow and shrink Items Datapack","bold":true,"color":"aqua"},{"text":"\n\n   Eat the "},{"text":"Suspicious cake","color":"light_purple"},{"text":" to grow\n   Drink the "},{"text":"Weird potion","color":"light_purple"},{"text":" to shrink\n   You can go back to normal with "},{"text":"Milk","color":"aqua"},{"text":"\n\nYou can see them in the "},{"text":"Recipe Book","color":"aqua"}]
+tellraw @p {"bold":true,"clickEvent":{"action":"open_url","value":"https://modrinth.com/datapack/alice-in-wonderland-foods"},"color":"aqua","text":"Click here to see more"}

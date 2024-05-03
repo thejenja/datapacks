@@ -4,7 +4,7 @@ execute as @a[scores={AIW_milk=1..}] run function aiw_func:animation/reset_effec
 
 execute as @a[scores={AIW_scale=..1}] run scoreboard players set @a[scores={AIW_scale=..2}] AIW_scale 2
 
-execute as @a[scores={AIW_anim_timer=1..}] run scoreboard players add tresbola AIW_anim_timer 1
+execute as @a[scores={AIW_anim_timer=1..}] run scoreboard players add @s AIW_anim_timer 1
 
 function aiw_func:scripts/reset_effect
 
