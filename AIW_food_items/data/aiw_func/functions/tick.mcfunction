@@ -1,6 +1,6 @@
 execute as @a[scores={AIW_grow_cake=1..}] run function aiw_func:items/grow
 execute as @a[scores={AIW_shrink_drink=1..}] run function aiw_func:items/shrink
-execute as @a[scores={AIW_milk=1..}] run function aiw_func:animation/reset_effect
+execute as @a[scores={AIW_milk=1..}] run function aiw_func:scripts/animation/reset_animation
 
 execute as @a[scores={AIW_scale=..1}] run scoreboard players set @a[scores={AIW_scale=..2}] AIW_scale 2
 
