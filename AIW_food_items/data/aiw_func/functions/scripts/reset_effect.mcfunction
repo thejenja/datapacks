@@ -9,5 +9,6 @@ execute as @a[scores={AIW_scale=10}] run attribute @s minecraft:generic.step_hei
 execute as @a[scores={AIW_scale=10}] run attribute @s minecraft:player.block_interaction_range base set 4.5
 
 execute as @a[scores={AIW_scale=10}] run attribute @s minecraft:generic.safe_fall_distance base set 3.0
+execute as @a[scores={AIW_scale=10}] run attribute @s minecraft:generic.scale base set 1.0
 
 

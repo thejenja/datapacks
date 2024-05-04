@@ -12,5 +12,5 @@ execute as @a[scores={AIW_scale=..2}] run scoreboard players set @a[scores={AIW_
 execute as @a[scores={AIW_big_fixed_1=4..}] run scoreboard players set @a[scores={AIW_shrink_drink=1..}] AIW_shrink_drink 0
 
 
-
+execute as @a[scores={AIW_shrink_drink=1..,AIW_anim_timer=2..}] run scoreboard players set @s AIW_anim_timer 0
 execute as @a[scores={AIW_shrink_drink=1..,AIW_anim_timer=2..}] run function aiw_func:scripts/animation/shrink_animation
