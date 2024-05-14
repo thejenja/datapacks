@@ -13,6 +13,7 @@ scoreboard players set @a AIW_shrink_drink 0
 scoreboard players set @a AIW_timer 0
 scoreboard players set @a AIW_scale 10
 
+execute store result storage thomas:temp Macro.scale double 0.1 run say hi
 
 scoreboard players set @a AIW_anim_timer 0
 
