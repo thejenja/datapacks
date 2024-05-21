@@ -1,5 +1,5 @@
 { 
     "values": [
-        "flute:tick"
+        "flute_func:tick"
     ]
 }
