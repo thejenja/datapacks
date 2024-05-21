@@ -28,4 +28,4 @@ execute as @a[scores={flute_used2=1..},x_rotation=-90..-70, nbt={SelectedItem:{i
 execute as @a[scores={flute_used2=1..},x_rotation=-120..-91, nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",count:1,components:{"minecraft:custom_model_data":1}}}] at @s run playsound minecraft:block.note_block.flute master @a ~ ~ ~ 10 1.4
 execute as @a[scores={flute_used2=1..},x_rotation=-120..-91, nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",count:1,components:{"minecraft:custom_model_data":1}}}] at @s run particle minecraft:note ~ ~ ~ 0.5 1.3 0.5 1 1 normal @a
 
-execute as @a[scores={flute_used2=1..}] run scoreboard players set tresbola flute_used2 0
+execute as @a[scores={flute_used2=1..}] run scoreboard players set @a[scores={flute_used2=1..}] flute_used2 0
