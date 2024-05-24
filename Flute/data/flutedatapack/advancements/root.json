@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "rer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bamboo"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "flutedatapack:flute"
+    ]
+  }
+}
