@@ -1,7 +1,8 @@
 {
     "pack": {
       "pack_format": 41,
-      "description": "Adds a Bamboo flute to the game"
+      "supported_formats": 32,
+      "description": "Adds Musical Instruments to the game"
     }
 }
   
