@@ -10,12 +10,6 @@
 			"custom_model_data": 1
 		  },
 		  "model": "minecraft:item/flute"
-		},
-		{
-			"predicate": {
-			  "custom_model_data": 7271
-			},
-			"model": "minecraft:item/guitar"
-		  }
+		}
 	  ]
 }
