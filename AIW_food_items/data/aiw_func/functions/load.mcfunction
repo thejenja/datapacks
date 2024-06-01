@@ -14,7 +14,7 @@ scoreboard players set @a AIW_shrink_drink 0
 scoreboard players set @a AIW_timer 0
 scoreboard players set @a AIW_scale 10
 scoreboard players set @a AIW_player_loaded 1
-execute store result storage thomas:temp Macro.scale double 1 run say Loaded AIW
+execute store result storage thomas:temp Macro.scale double 1 run Loaded AIW
 
 
 scoreboard players set @a AIW_anim_timer 0
