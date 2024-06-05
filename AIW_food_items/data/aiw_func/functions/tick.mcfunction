@@ -13,5 +13,3 @@ function aiw_func:scripts/reset_effect
 execute as @a[scores={AIW_death=1..}] run function aiw_func:private/death
 
 execute unless entity @a[scores={AIW_scale=0..}] run scoreboard players set @s AIW_scale 10
-
-recipe give @a *

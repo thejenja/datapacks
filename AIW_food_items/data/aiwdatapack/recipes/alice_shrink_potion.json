@@ -6,7 +6,7 @@
           "item": "minecraft:blaze_powder"
       },
       {
-          "item": "minecraft:cornflower"
+          "item": "minecraft:amethyst_shard"
       },
       {
           "item": "minecraft:glass_bottle"
@@ -18,10 +18,9 @@
       "custom_model_data":1,
       "custom_name":"[{'text':'Weird Drink','italic':false,'color':light_purple}]",
       "food": {
-        "nutrition":4,
+        "nutrition":2,
         "saturation":1,
-        "can_always_eat":true,
-        "eat_seconds":3
+        "can_always_eat":true
       }
 
     },
