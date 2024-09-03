@@ -1,0 +1,21 @@
+{
+	"parent": "item/handheld_rod",
+	"textures": {
+		"layer0": "minecraft:item/carrot_on_a_stick",
+		"particle": "item/carrot_on_a_stick/texture"
+	},
+	"overrides": [
+		{
+		  "predicate": {
+			"custom_model_data": 1
+		  },
+		  "model": "minecraft:item/flute"
+		},
+		{
+			"predicate": {
+			  "custom_model_data": 7271
+			},
+			"model": "minecraft:item/guitar"
+		  }
+	  ]
+}
