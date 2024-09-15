@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "Music",
+  "category": "misc",
   "pattern": [
     "  C",
     "B# ",
@@ -21,7 +21,7 @@
       "id": "minecraft:carrot_on_a_stick",
       "components":{
         "custom_model_data":7271,
-        "item_name": "Guitar",
+        "item_name": "'Oak Guitar'",
         "hide_additional_tooltip":{}
 
       },

@@ -5,7 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "minecraft:oak_planks"
+            "items": "minecraft:string"
           }
         ]
       }
@@ -13,7 +13,16 @@
   },
   "rewards": {
     "recipes": [
-      "flutedatapack:guitar"
+      "flutedatapack:guitar",
+      "flutedatapack:guitaracacia",
+      "flutedatapack:guitarbirch",
+      "flutedatapack:guitarcherry",
+      "flutedatapack:guitarcrimson",
+      "flutedatapack:guitardarkoak",
+      "flutedatapack:guitarjungle",
+      "flutedatapack:guitarmangroove",
+      "flutedatapack:guitarspruce",
+      "flutedatapack:guitarwarped"
     ]
   }
 }
