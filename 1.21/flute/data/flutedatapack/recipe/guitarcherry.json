@@ -21,7 +21,7 @@
 		"id": "minecraft:carrot_on_a_stick",
 		"components":{
 		  "custom_model_data":7274,
-		  "item_name": "'Cherry Guitar'",
+		  "item_name": "{ 'translate': 'item.flute.cherry_guitar', 'italic': false }",
 		  "hide_additional_tooltip":{}
   
 		},

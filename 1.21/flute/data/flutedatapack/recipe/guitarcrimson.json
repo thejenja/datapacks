@@ -21,7 +21,7 @@
 		"id": "minecraft:carrot_on_a_stick",
 		"components":{
 		  "custom_model_data":7275,
-		  "item_name": "'Crimson Guitar'",
+		  "item_name": "{ 'translate': 'item.flute.crimson_guitar', 'italic': false }",
 		  "hide_additional_tooltip":{}
   
 		},

@@ -21,7 +21,7 @@
 		"id": "minecraft:carrot_on_a_stick",
 		"components":{
 		  "custom_model_data":7279,
-		  "item_name": "'Spruce Guitar'",
+		  "item_name": "{ 'translate': 'item.flute.spruce_guitar', 'italic': false }",
 		  "hide_additional_tooltip":{}
   
 		},

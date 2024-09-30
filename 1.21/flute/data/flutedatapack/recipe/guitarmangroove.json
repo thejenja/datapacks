@@ -21,7 +21,7 @@
 		"id": "minecraft:carrot_on_a_stick",
 		"components":{
 		  "custom_model_data":7278,
-		  "item_name": "'Mangrove Guitar'",
+		  "item_name": "{ 'translate': 'item.flute.mangrove_guitar', 'italic': false }",
 		  "hide_additional_tooltip":{}
   
 		},

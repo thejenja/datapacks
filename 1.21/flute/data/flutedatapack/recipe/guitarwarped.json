@@ -21,7 +21,7 @@
 		"id": "minecraft:carrot_on_a_stick",
 		"components":{
 		  "custom_model_data":7280,
-		  "item_name": "'Warped Guitar'",
+		  "item_name": "{ 'translate': 'item.flute.warped_guitar', 'italic': false }",
 		  "hide_additional_tooltip":{}
   
 		},

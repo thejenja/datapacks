@@ -21,7 +21,7 @@
 		"id": "minecraft:carrot_on_a_stick",
 		"components":{
 		  "custom_model_data":7273,
-		  "item_name": "'Birch Guitar'",
+		  "item_name": "{ 'translate': 'item.flute.birch_guitar', 'italic': false }",
 		  "hide_additional_tooltip":{}
   
 		},
